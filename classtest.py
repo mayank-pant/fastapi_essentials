@@ -1,0 +1,1 @@
+class ooptest implements 
